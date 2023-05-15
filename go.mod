@@ -1,4 +1,4 @@
-module github.com/z-cran/phonenumbers
+module github.com/z-cran/usphonenumbers
 
 go 1.18
 
