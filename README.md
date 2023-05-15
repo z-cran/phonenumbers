@@ -7,3 +7,4 @@ A library for parsing US Phone Numbers & validating area codes against the exist
 Feel free to contribute through the following steps:
 1. Open an issue and clearly define the requirements of the change requested
 2. Open a PR against the issue.
+3. When merging, ensure `Squash and Merge` is selected!
